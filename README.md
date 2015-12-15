@@ -1,0 +1,2 @@
+# mydictionary
+途中
